@@ -45,7 +45,15 @@
 🔗 **[GitHub Repo](https://github.com/Kailramiya/AutomatedVideoSurveillance)**  
 - Real-time **face recognition & visitor identification** system 🎥  
 - Achieved **95% accuracy** and **50% faster response time** ⚡  
-- Sends instant **security alerts via Telegram bot** 🚨  
+- Sends instant **security alerts via Telegram bot** 🚨
+
+#### 🎯 Calculator App  
+🔗 **[GitHub Repo](https://github.com/Kailramiya/Calculator)**  
+- Built a responsive **calculator using React** ⚡  
+- Supports **basic arithmetic operations** with a clean UI 🎨  
+- Styled with **CSS Modules for modular and maintainable design** 🎭  
+
+
 
 ---
 
