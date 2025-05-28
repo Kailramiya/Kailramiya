@@ -35,7 +35,7 @@
 - Provided real-time congestion alerts & analytics 🚦  
 
 #### 🎯 Virtual Study Environment (VSE)  
-🔗 **[GitHub Repo](https://github.com/priyanshiiitr/Vitual-Study-Environment)**  
+🔗 **[GitHub Repo](https://github.com/priyanshiiitr/Vitual-Study-Environment-)**  
 - Developed an **AI-driven study monitoring tool** 🧠  
 - Tracks focus & detects distractions with **85% accuracy**  
 - Boosted study efficiency by **30%** with AI insights  
