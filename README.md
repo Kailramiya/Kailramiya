@@ -114,7 +114,7 @@ Passionate Full-Stack Software Engineer with expertise in **MERN stack architect
 
 ## 💻 Technical Arsenal
 
-<div align="center">
+<div >
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
