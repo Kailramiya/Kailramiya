@@ -1,102 +1,251 @@
-### Hi there, I'm Aman Kumar! 👋  
-#### Passionate Developer | Competitive Programmer | AI & Computer Vision Enthusiast  
+<div align="center">
 
-🚀 **About Me**  
-- 🎓 B.Tech in Computer Science & Engineering (IIIT Raichur, 2023–2027)  
-- 💡 Enthusiastic about **AI, Computer Vision, and Automation**  
-- ⚙️ Skilled in **MERN Stack, Flask, and Express.js**  
-- ⚡ Solved **1000+ DSA problems** on LeetCode, GeeksForGeeks & Codeforces  
-- 🏆 **SIH 2024 Finalist** | Ranked **Top 5%** in #GeekStreak2024 Challenge  
-- 🔥 Love building real-world applications with **Python, OpenCV, MongoDB, Flask, and AI models**  
+# 👋 Hi, I'm Aman Kumar
 
----
+### 🚀 Full-Stack Software Engineer | 🎓 Computer Science Student | 💡 Innovation Enthusiast
 
-### 🔥 **Tech Stack & Skills**
+[![Portfolio](https://img.shields.io/badge/Portfolio-amankumar--seven.vercel.app-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://amankumar-seven.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-kumar)
+[![Email](https://img.shields.io/badge/Email-officialamankundu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialamankundu@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%209466460761-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919466460761)
 
-**Languages & Tools:**  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN+Stack;AI%2FML+Enthusiast+%7C+Computer+Vision;Competitive+Programmer+%7C+700%2B+Problems;Smart+India+Hackathon+2024+Finalist;Building+Innovation+%7C+One+Code+at+a+Time" alt="Typing SVG" />
 
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)  
-
-**Version Control & Others:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+</div>
 
 ---
 
-### 📌 **Featured Projects**
+## 🎯 About Me
 
-#### 🚗 Vehicle Detection & Counting using YOLOv3  
-🔗 **[GitHub Repo](https://github.com/Kailramiya/Vehicle-Detection-and-Counting-using-yolov-)**  
-- Built a real-time vehicle detection & counting system using **YOLOv3 & OpenCV**  
-- Achieved **92% accuracy**, reducing false counts by **30%**  
-- Provided real-time congestion alerts & analytics 🚦  
+> **Currently pursuing B.Tech in Computer Science at IIIT Raichur** with a stellar **8.3/10.0 GPA**
 
-#### 🛏️ Airbnb Clone (Full Stack)  
-🔗 **[GitHub Repo](https://github.com/Kailramiya/airbnb)**  
-- Built a booking app with host/admin and guest UI using **MongoDB, Node.js, EJS, Express**  
-- Integrated filtering, dashboards, and role-based data flow 🏡  
-- **[Admin Panel Demo](https://drive.google.com/file/d/1D_TEzS6S-W8O_Nqy8de6Gn-qDb3wXoSP/view)** | **[User Panel Demo](https://drive.google.com/file/d/10n2oK6_N7ZkTriKPOlbPHUI_qgYEC7rC/view)**
+Passionate Full-Stack Software Engineer with expertise in **MERN stack architecture**, **machine learning algorithms**, and **scalable system optimization**. I specialize in creating innovative solutions that bridge technology and real-world impact.
 
-#### 🧠 Virtual Study Environment (VSE)  
-🔗 **[GitHub Repo](https://github.com/priyanshiiitr/Vitual-Study-Environment-)**  
-- Developed an **AI-driven distraction detector** using Flask + ML + Computer Vision  
-- Tracked head pose & eye closure to measure attention, improving study focus by **30%**  
-
-#### 🔐 Automated Video Surveillance System  
-🔗 **[GitHub Repo](https://github.com/Kailramiya/AutomatedVideoSurveillance)**  
-- Real-time **face recognition & visitor identification** system 🎥  
-- Achieved **95% accuracy** with auto-alerts via **Telegram bot API** 🔔  
-
-#### ✅ Todo Web App  
-🔗 **[GitHub Repo](https://github.com/Kailramiya/Todo)**  
-- Created a full CRUD task manager with **Express, EJS, MongoDB**  
-- Features minimalistic UI & MongoDB backend  
-
-#### 🎯 Calculator Web App  
-🔗 **[GitHub Repo](https://github.com/Kailramiya/Calculator)**  
-- Designed a mobile-friendly calculator using **HTML, CSS, JS**  
-- Supports arithmetic operations with neat layout
+- 🔭 Currently working on: **Enterprise networking platforms** and **AI-powered systems**
+- 🌱 Learning: **Advanced system design** and **cloud architecture**
+- 👯 Looking to collaborate on: **Open source projects** and **innovative tech solutions**
+- 💬 Ask me about: **React**, **Node.js**, **MongoDB**, **Python**, **Computer Vision**
+- ⚡ Fun fact: Solved **700+ coding problems** and achieved **global rank under 3000**
 
 ---
 
-### 🏆 **Competitive Programming Achievements**
+## 🏆 Key Achievements
 
-- 🎯 **Global Rank <1000** in multiple **LeetCode & Codeforces contests**  
-- 🏅 **Solved 1000+ DSA problems** across LeetCode, GFG & Codeforces  
-- 🏆 **Smart India Hackathon (SIH) 2024 Finalist** – DRDO challenge  
-- 📈 **Top 5%** in #GeekStreak2024 (Deutsche Bank + GFG)
+<div align="center">
 
-📌 **Check out my CP profiles:**  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aman_kundu/)  
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/amankundu/)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/amankundu)  
-[![Codechef](https://img.shields.io/badge/Codechef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/kailramiya)
+| 🎯 Achievement | 📊 Details |
+|:---:|:---:|
+| **🥇 Smart India Hackathon 2024** | Finalist - DRDO Project |
+| **📈 Academic Excellence** | 8.3/10.0 GPA at IIIT Raichur |
+| **💻 Competitive Programming** | 700+ Problems Solved |
+| **🌍 Global Ranking** | Under 3000 in competitive programming |
+| **🏅 GeekStreak2024** | Top 5% performer |
+| **🔐 Cybersecurity Certified** | Ethical Hacking Certification |
 
----
-
-### 📫 **Let's Connect!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kumar-6082321a9)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kailramiya)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Officialamankundu@gmail.com)  
+</div>
 
 ---
 
-⭐ **If you like my work, consider giving my repositories a star!** ⭐
+## 🚀 Featured Projects
+
+### 🌐 Web Development Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🔗 NetworQ - Enterprise Networking Platform**
+- 🎯 **Impact**: Serving 500+ registered users
+- 💡 **Tech Stack**: React.js, Node.js, MongoDB, JWT
+- ⚡ **Features**: Real-time messaging, secure authentication
+- 📊 **Performance**: 1000+ daily API requests
+- 🔗 **Status**: Live & Operational
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/your-username/networq)
+
+</td>
+<td width="50%">
+
+**🏨 Hospitality Marketplace**
+- 🎯 **Scale**: 100+ concurrent users
+- 💡 **Tech Stack**: Node.js, Express, MongoDB, EJS
+- ⚡ **Features**: Dynamic pricing, geolocation search
+- 📊 **Capabilities**: Advanced filtering system
+- 🔗 **Status**: Completed
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/your-username/hospitality)
+
+</td>
+</tr>
+</table>
+
+### 🤖 AI/ML & Computer Vision Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🔒 AI-Powered Security Monitoring**
+- 🎯 **Accuracy**: 95% facial recognition
+- 💡 **Tech Stack**: Python, OpenCV, Telegram API
+- ⚡ **Features**: Real-time alerts, cloud storage
+- 📊 **Improvement**: 40% reduction in false positives
+- 🔗 **Repository**: [AutomatedVideoSurveillance](https://github.com/Kailramiya/AutomatedVideoSurveillance)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Kailramiya/AutomatedVideoSurveillance)
+
+</td>
+<td width="50%">
+
+**🚗 Vehicle Detection Using YOLOv3**
+- 🎯 **Detection**: Cars, Motorbikes, Buses, Trucks
+- 💡 **Tech Stack**: Python, OpenCV, NumPy, Tkinter
+- ⚡ **Features**: Real-time counting, line tracking
+- 📊 **Output**: Live frame analysis with timestamps
+- 🔗 **Repository**: [Vehicle-Detection-YOLOv3](https://github.com/Kailramiya/Vehicle-Detection-and-Counting-using-yolov-)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Kailramiya/Vehicle-Detection-and-Counting-using-yolov-)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Technical Arsenal
+
+<div align="center">
+
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI/ML & Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kailramiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kailramiya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kailramiya&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kailramiya&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" height="170"/>
+</div>
+
+---
+
+## 🎓 Education & Competitive Programming
+
+<div align="center">
+
+### 🏫 Academic Background
+**Indian Institute of Information Technology Raichur**  
+*Bachelor of Technology in Computer Science* | **Aug 2023 – May 2027**  
+**GPA: 8.3/10.0** | Raichur, Karnataka
+
+### 🏅 Competitive Programming Achievements
+[![LeetCode](https://img.shields.io/badge/LeetCode-350%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/aman-kumar)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-300%2B%20Problems-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/aman-kumar)
+[![Codeforces](https://img.shields.io/badge/Codeforces-50%2B%20Problems-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aman-kumar)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Problems%20Solved-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/aman-kumar)
+
+</div>
+
+---
+
+## 🌟 Portfolio Highlights
+
+<div align="center">
+
+### 🎨 **Explore My Complete Portfolio**
+[![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio_Website-Visit_Now-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amankumar-seven.vercel.app/)
+
+**Features of My Portfolio:**
+- 🎨 **Interactive Design** with dark/light theme toggle
+- 📧 **Working Contact Form** with EmailJS integration
+- 🔍 **Project Filtering** by technology stack
+- 📱 **Fully Responsive** design
+- ⚡ **Smooth Animations** with Framer Motion
+- 🚀 **Fast Loading** deployed on Vercel
+
+</div>
+
+---
+
+## 📬 Let's Connect & Collaborate
+
+<div align="center">
+
+I'm always excited to connect with fellow developers, potential collaborators, and anyone passionate about technology! Whether you want to discuss a project, share ideas, or just say hello, feel free to reach out.
+
+### 💌 Contact Information
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-amankumar--seven.vercel.app-4285F4?style=flat-square)](https://amankumar-seven.vercel.app/)
+[![Email](https://img.shields.io/badge/✉️_Email-officialamankundu@gmail.com-EA4335?style=flat-square)](mailto:officialamankundu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=flat-square)](https://linkedin.com/in/aman-kumar)
+[![Phone](https://img.shields.io/badge/📱_Phone-+91_9466460761-25D366?style=flat-square)](tel:+919466460761)
+
+### 🤝 Open to Opportunities
+- 💼 **Full-time positions** in software engineering
+- 🚀 **Internship opportunities** in tech companies
+- 🤝 **Collaboration** on open source projects
+- 💡 **Freelance projects** in web development and AI/ML
+- 🎤 **Speaking opportunities** at tech events
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 "Turning complex problems into elegant solutions, one line of code at a time"
+
+<img src="https://komarev.com/ghpvc/?username=Kailramiya&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+
+**⭐ Star my repositories if you find them helpful!**
+
+</div>
+
+---
+
+<div align="center">
+
+*Built with ❤️ by [Aman Kumar](https://amankumar-seven.vercel.app/) | Last updated: August 2025*
+
+</div>
