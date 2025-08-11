@@ -158,7 +158,7 @@ Passionate Full-Stack Software Engineer with expertise in **MERN stack architect
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<div >
   <img src="https://github-readme-stats.vercel.app/api?username=Kailramiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kailramiya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </div>
@@ -172,7 +172,7 @@ Passionate Full-Stack Software Engineer with expertise in **MERN stack architect
 
 ## 🎓 Education & Competitive Programming
 
-<div align="center">
+<div >
 
 ### 🏫 Academic Background
 **Indian Institute of Information Technology Raichur**  
@@ -191,7 +191,7 @@ Passionate Full-Stack Software Engineer with expertise in **MERN stack architect
 
 ## 🌟 Portfolio Highlights
 
-<div align="center">
+<div >
 
 ### 🎨 **Explore My Complete Portfolio**
 [![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio_Website-Visit_Now-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amankumar-seven.vercel.app/)
@@ -210,7 +210,7 @@ Passionate Full-Stack Software Engineer with expertise in **MERN stack architect
 
 ## 📬 Let's Connect & Collaborate
 
-<div align="center">
+<div >
 
 I'm always excited to connect with fellow developers, potential collaborators, and anyone passionate about technology! Whether you want to discuss a project, share ideas, or just say hello, feel free to reach out.
 
@@ -232,7 +232,7 @@ I'm always excited to connect with fellow developers, potential collaborators, a
 
 ---
 
-<div align="center">
+<div >
 
 ### 🎯 "Turning complex problems into elegant solutions, one line of code at a time"
 
