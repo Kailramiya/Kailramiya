@@ -5,7 +5,7 @@
 ### 🚀 Full-Stack Software Engineer | 🎓 Computer Science Student | 💡 Innovation Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-amankumar--seven.vercel.app-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://amankumar-seven.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-kumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/aman-kumar-6082321a9/))
 [![Email](https://img.shields.io/badge/Email-officialamankundu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialamankundu@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%209466460761-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919466460761)
 
@@ -61,7 +61,7 @@ Passionate Full-Stack Software Engineer with expertise in **MERN stack architect
 - 📊 **Performance**: 1000+ daily API requests
 - 🔗 **Status**: Live & Operational
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/your-username/networq)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Kailramiya/networq)
 
 </td>
 <td width="50%">
@@ -73,7 +73,7 @@ Passionate Full-Stack Software Engineer with expertise in **MERN stack architect
 - 📊 **Capabilities**: Advanced filtering system
 - 🔗 **Status**: Completed
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/your-username/hospitality)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Kailramiya/airbnb)
 
 </td>
 </tr>
@@ -148,8 +148,6 @@ Passionate Full-Stack Software Engineer with expertise in **MERN stack architect
 ### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
@@ -180,10 +178,9 @@ Passionate Full-Stack Software Engineer with expertise in **MERN stack architect
 **GPA: 8.3/10.0** | Raichur, Karnataka
 
 ### 🏅 Competitive Programming Achievements
-[![LeetCode](https://img.shields.io/badge/LeetCode-350%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/aman-kumar)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-300%2B%20Problems-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/aman-kumar)
-[![Codeforces](https://img.shields.io/badge/Codeforces-50%2B%20Problems-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aman-kumar)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Problems%20Solved-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/aman-kumar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-350%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aman_kundu/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-300%2B%20Problems-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/amankundu/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-50%2B%20Problems-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/amankundu)
 
 </div>
 
@@ -218,7 +215,7 @@ I'm always excited to connect with fellow developers, potential collaborators, a
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-amankumar--seven.vercel.app-4285F4?style=flat-square)](https://amankumar-seven.vercel.app/)
 [![Email](https://img.shields.io/badge/✉️_Email-officialamankundu@gmail.com-EA4335?style=flat-square)](mailto:officialamankundu@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=flat-square)](https://linkedin.com/in/aman-kumar)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/aman-kumar-6082321a9/)
 [![Phone](https://img.shields.io/badge/📱_Phone-+91_9466460761-25D366?style=flat-square)](tel:+919466460761)
 
 ### 🤝 Open to Opportunities
