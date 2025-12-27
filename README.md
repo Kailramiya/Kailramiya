@@ -66,14 +66,14 @@ Passionate Full-Stack Software Engineer with expertise in **MERN stack architect
 </td>
 <td width="50%">
 
-**🏨 Hospitality Marketplace**
-- 🎯 **Scale**: 100+ concurrent users
-- 💡 **Tech Stack**: Node.js, Express, MongoDB, EJS
-- ⚡ **Features**: Dynamic pricing, geolocation search
-- 📊 **Capabilities**: Advanced filtering system
-- 🔗 **Status**: Completed
+**🏠 StayEase – Property Rental & Booking Platform**
+- 🎯 **Impact**: End-to-end booking platform with real user flows
+- 💡 **Tech Stack**: React, Vite, Node.js, Express, MongoDB, JWT
+- ⚡ **Features**: Authentication, bookings, favorites, reviews, admin dashboard
+- 📊 **Engineering**: Cookie-based auth, REST APIs, Cloudinary uploads
+- 🔗 **Status**: Live & actively maintained
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Kailramiya/airbnb)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Kailramiya/StayEase)
 
 </td>
 </tr>
@@ -126,10 +126,12 @@ Passionate Full-Stack Software Engineer with expertise in **MERN stack architect
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -139,6 +141,8 @@ Passionate Full-Stack Software Engineer with expertise in **MERN stack architect
 ### Database & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
 
 ### AI/ML & Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
@@ -177,10 +181,12 @@ Passionate Full-Stack Software Engineer with expertise in **MERN stack architect
 *Bachelor of Technology in Computer Science* | **Aug 2023 – May 2027**  
 **GPA: 8.3/10.0** | Raichur, Karnataka
 
-### 🏅 Competitive Programming Achievements
-[![LeetCode](https://img.shields.io/badge/LeetCode-350%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aman_kundu/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-300%2B%20Problems-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/amankundu/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-50%2B%20Problems-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/amankundu)
+## 🧠 Competitive Programming
+![LeetCode Stats](https://leetcard.jacoblin.cool/Aman_kundu?theme=dark&font=Karma)
+![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=amankundu)
+![GFG](https://gfgstatscard.vercel.app/amankundu)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kailramiya&show_icons=true)
+
 
 </div>
 
