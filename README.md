@@ -52,50 +52,55 @@ DSA:        1000+ problems solved | Global rank < 3000
 <!-- Experience Journey -->
 ## <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="25"> Experience
 
-<div align="center">
-
-```
-  Feb 2026                              Sep 2025                        Aug 2023
-     |                                     |                               |
-     v                                     v                               v
-  ╔══════════════════════╗  ╔══════════════════════════╗  ╔═══════════════════════╗
-  ║   QuickIntell        ║  ║      AI4Chat             ║  ║    IIIT Raichur       ║
-  ║   SDE Intern         ║  ║  AI/ML SDE Intern        ║  ║  B.Tech in CSE        ║
-  ║   (Current)          ║  ║  Sep 2025 - Jan 2026     ║  ║  2023 - 2027          ║
-  ╚══════════════════════╝  ╚══════════════════════════╝  ╚═══════════════════════╝
-```
-
-</div>
-
 <table>
 <tr>
-<td width="50%">
+<td>
 
-### <img src="https://img.shields.io/badge/Current-00d4aa?style=flat-square"/> QuickIntell
+<!-- Timeline Node 1 -->
+<h3>
+<img src="https://img.shields.io/badge/%E2%97%8F-00d4aa?style=flat-square&labelColor=00d4aa&color=00d4aa" height="12"/>
+&nbsp; QuickIntell &mdash; Software Development Intern
+<img src="https://img.shields.io/badge/Feb_2026_--_Present-00d4aa?style=flat-square" align="right"/>
+</h3>
 
-**Software Development Intern** | `Feb 2026 - Present`
+> **Currently building AI-powered classification systems on AWS**
 
-<ul>
-<li>Integrated <b>AI models</b> for automated classification & scoring into real-time data processing pipelines on <b>AWS</b>, implementing configurable confidence thresholds to balance precision and recall</li>
-<li>Built a <b>multi-tenant platform</b> with modular architecture and <b>PostgreSQL</b>, supporting data isolation and concurrent task execution for scalable ML model serving</li>
-</ul>
+- Integrated **AI models** for automated classification & scoring into real-time data processing pipelines on **AWS**, implementing configurable confidence thresholds to balance precision and recall
+- Built a **multi-tenant platform** with modular architecture and **PostgreSQL**, supporting data isolation and concurrent task execution for scalable ML model serving
 
-`Python` `AWS (S3, SQS)` `PostgreSQL` `FastAPI` `Docker`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-</td>
-<td width="50%">
+---
 
-### <img src="https://img.shields.io/badge/Completed-70a5fd?style=flat-square"/> AI4Chat
+<!-- Timeline Node 2 -->
+<h3>
+<img src="https://img.shields.io/badge/%E2%97%8F-70a5fd?style=flat-square&labelColor=70a5fd&color=70a5fd" height="12"/>
+&nbsp; AI4Chat &mdash; AI/ML Software Development Intern
+<img src="https://img.shields.io/badge/Sep_2025_--_Jan_2026-70a5fd?style=flat-square" align="right"/>
+</h3>
 
-**AI/ML Software Development Intern** | `Sep 2025 - Jan 2026`
+> **Scaled ML inference pipelines for production AI services**
 
-<ul>
-<li>Designed scalable <b>AI service pipelines</b> using async processing & multithreading, increasing model inference throughput by <b>~40%</b> and reducing latency by <b>~30%</b></li>
-<li>Built <b>fault-tolerant ML serving</b> components with retries, timeouts, and circuit breakers for reliable production performance</li>
-<li>Collaborated cross-functionally to integrate AI/ML features into production following <b>SDLC best practices</b></li>
-</ul>
+- Designed scalable **AI service pipelines** using async processing & multithreading, increasing model inference throughput by **~40%** and reducing latency by **~30%**
+- Built **fault-tolerant ML serving** components with retries, timeouts, and circuit breakers for reliable production performance
+- Collaborated cross-functionally to integrate AI/ML features into production following **SDLC best practices**
 
-`Python` `Async/Multithreading` `ML Pipelines` `REST APIs`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Async](https://img.shields.io/badge/Async/Multithreading-0d1117?style=flat-square) ![ML Pipelines](https://img.shields.io/badge/ML_Pipelines-EE4C2C?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
+
+---
+
+<!-- Timeline Node 3 -->
+<h3>
+<img src="https://img.shields.io/badge/%E2%97%8F-a9fef7?style=flat-square&labelColor=a9fef7&color=a9fef7" height="12"/>
+&nbsp; IIIT Raichur &mdash; B.Tech in Computer Science & Engineering
+<img src="https://img.shields.io/badge/Aug_2023_--_May_2027-a9fef7?style=flat-square" align="right"/>
+</h3>
+
+> **CGPA: 8.16/10.0** | Raichur, Karnataka
+
+- **Coursework:** Machine Learning, Design & Analysis of Algorithms, DSA, DBMS, Operating Systems, Computer Networks, Computer Architecture
+- **1000+ DSA problems** solved across LeetCode, Codeforces, GFG, and CodeChef
+- **Top 5%** in Deutsche Bank + GFG GeekStreak 2024 among 10,000+ participants
 
 </td>
 </tr>
@@ -289,28 +294,6 @@ DSA:        1000+ problems solved | Global rank < 3000
 </div>
 
 ---
-
-<!-- Education -->
-## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25"> Education
-
-<table>
-<tr>
-<td>
-
-**Indian Institute of Information Technology, Raichur**
-
-| | |
-|:--|:--|
-| **Degree** | B.Tech in Computer Science & Engineering |
-| **Duration** | Aug 2023 - May 2027 |
-| **CGPA** | 8.16 / 10.0 |
-| **Location** | Raichur, Karnataka |
-
-**Relevant Coursework:** Machine Learning, Design & Analysis of Algorithms, DSA, DBMS, Operating Systems, Computer Networks, Computer Architecture
-
-</td>
-</tr>
-</table>
 
 ---
 
