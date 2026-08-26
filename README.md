@@ -7,7 +7,7 @@
 <p>
 <a href="https://amankumar-seven.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-70a5fd?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/aman-kumar-6082321a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:amankunduiiitr@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:officialamankundu@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/u/Aman_kundu/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://codeforces.com/profile/amankundu"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 </p>
@@ -33,13 +33,13 @@ Name:       Aman Kumar
 Location:   India
 Education:  B.Tech in CSE @ IIIT Raichur (2023-2027) | CGPA: 8.16/10.0
 Focus:      AI/ML, NLP, Computer Vision, Full-Stack Development
-Currently:  SDE Intern @ QuickIntell | Building AI Pipelines on AWS
+Currently:  SDE Intern @ QuickIntell | Building RPA Bots & AI Pipelines
 DSA:        1000+ problems solved | Global rank < 3000
 ```
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kailramiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=a9b1d6&langs_count=8" width="320"/>
 
-- **Building** AI classification pipelines & multi-tenant platforms at **QuickIntell**
+- **Building** healthcare RPA automation bots & AI pipelines at **QuickIntell**
 - **Experienced in** NLP, transformer models, real-time computer vision systems
 - **Previously at** AI4Chat - scaled ML inference throughput by ~40%
 - **Ask me about** PyTorch, HuggingFace, FastAPI, React, Node.js, System Design
@@ -85,6 +85,8 @@ gantt
 <sub>┃</sub><br/>
 <sub>┃</sub><br/>
 <sub>┃</sub><br/>
+<sub>┃</sub><br/>
+<sub>┃</sub><br/>
 <img src="https://img.shields.io/badge/●-70a5fd?style=flat-square&labelColor=70a5fd" height="14"/><br/>
 <sub>┃</sub><br/>
 <sub>┃</sub><br/>
@@ -104,10 +106,13 @@ gantt
 <!-- Node 1: QuickIntell -->
 <h3>QuickIntell &mdash; Software Development Intern &nbsp; <img src="https://img.shields.io/badge/Feb_2026_--_Present-00d4aa?style=flat-square&labelColor=0d1117"/></h3>
 
-- Integrated **AI models** for automated classification & scoring into real-time data processing pipelines on **AWS**, implementing configurable confidence thresholds to balance precision and recall
-- Built a **multi-tenant platform** with modular architecture and **PostgreSQL**, supporting data isolation and concurrent task execution for scalable ML model serving
+- Architected and shipped a production **RPA suite** of Windows automation bots that verify healthcare insurance eligibility across major U.S. payers, cutting manual processing time by **~70%**
+- Integrated **Amazon Bedrock Nova Pro** vision model for coordinate-free OCR on live UI screenshots, enabling resilient data extraction
+- Designed a **zero-trust security architecture** with AWS Lambda, JWT validation, and Appwrite blacklist proxying AI inferences
+- Packaged bots as obfuscated standalone Windows executables with remote kill-switches and monitoring
+- Integrated **AI models** for automated classification & scoring into real-time data processing pipelines on AWS with a **multi-tenant PostgreSQL** platform
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) ![OCR](https://img.shields.io/badge/OCR-000000?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white)
 
 <br/>
 
@@ -158,20 +163,20 @@ gantt
 
 <div align="center">
 
+<a href="https://github.com/Kailramiya/DSIC">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kailramiya&repo=DSIC&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=a9fef7&text_color=a9b1d6" width="48%"/>
+</a>
 <a href="https://github.com/Kailramiya/Empathy-engine">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kailramiya&repo=Empathy-engine&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=a9fef7&text_color=a9b1d6" width="48%"/>
-</a>
-<a href="https://github.com/Kailramiya/AutomatedVideoSurveillance">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kailramiya&repo=AutomatedVideoSurveillance&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=a9fef7&text_color=a9b1d6" width="48%"/>
 </a>
 
 <br/>
 
+<a href="https://github.com/Kailramiya/AutomatedVideoSurveillance">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kailramiya&repo=AutomatedVideoSurveillance&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=a9fef7&text_color=a9b1d6" width="48%"/>
+</a>
 <a href="https://github.com/Kailramiya/StayEase">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kailramiya&repo=StayEase&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=a9fef7&text_color=a9b1d6" width="48%"/>
-</a>
-<a href="https://github.com/Kailramiya/networq">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kailramiya&repo=networq&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=a9fef7&text_color=a9b1d6" width="48%"/>
 </a>
 
 </div>
@@ -181,44 +186,59 @@ gantt
 <!-- Detailed Project Cards -->
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
+### GetPrepFly - PTE Exam Practice Platform
+`Next.js 14` `React Native` `PostgreSQL` `OpenAI Whisper`
+
+- Architected a **multi-tenant SaaS** with 4-role RBAC, serving individual students and B2B coaching centres
+- Built AI auto-grading for all 26 PTE question types using **OpenAI Whisper + GPT-4o-mini**, returning scored feedback in under 60s
+- Engineered **Razorpay monetization** with modular plans, coupon engine, and 30-day rolling seat allocation for centres
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Kailramiya/DSIC) [![Live](https://img.shields.io/badge/Live_Demo-00d4aa?style=flat-square&logo=vercel)](https://getprepfly.com)
+
+</td>
+<td width="50%" valign="top">
 
 ### Empathy Engine - Emotionally Intelligent TTS
 `Python` `HuggingFace Transformers` `FastAPI` `Edge-TTS`
 
-- Fine-tuned **DistilRoBERTa** for 7-class emotion classification (joy, anger, sadness, fear, surprise, disgust, neutral) with confidence-based intensity scaling
-- Built **multilingual processing** with auto Hindi/Hinglish detection via Devanagari script analysis, supporting emotion analysis across 3 languages
-- Designed **dynamic prosody modulation** mapping emotions to vocal parameters (rate, pitch, volume) with triple-fallback TTS architecture
+- Fine-tuned **DistilRoBERTa** for 7-class emotion classification with confidence-based intensity scaling
+- Built **multilingual processing** with auto Hindi/Hinglish detection via Devanagari script analysis
+- Designed **dynamic prosody modulation** mapping emotions to vocal parameters with triple-fallback TTS architecture
 
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Kailramiya/Empathy-engine)
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### AI Security Monitoring System
 `Python` `OpenCV` `YOLOv3` `Face Recognition` `Telegram API`
 
-- Built real-time CV pipeline with **multi-threaded frame processing**, achieving **95% face recognition** accuracy and **2.1x faster inference**
+- Built real-time CV pipeline with **multi-threaded frame processing**, achieving **95% face recognition** accuracy
 - Reduced false positives by **40%** through optimized face embedding techniques and intelligent frame sampling
 - Integrated **real-time Telegram alerts** with sub-second latency for automated incident reporting
 
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Kailramiya/AutomatedVideoSurveillance) [![Demo](https://img.shields.io/badge/Demo-70a5fd?style=flat-square&logo=youtube)](https://www.linkedin.com/posts/aman-kumar-6082321a9_python-facerecognition-computervision-activity-7342183270278647808-XEHT)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### StayEase - Property Rental & Booking Platform
-`React` `Node.js` `MongoDB` `Redis`
+`React 19` `Node.js` `MongoDB` `Redis`
 
 - Implemented **AI-assisted ranking & recommendation** using weighted scoring based on user behavior signals
-- Optimized backend with **Redis caching**, built secure auth, listings, bookings, and reviews
+- Optimized backend with **Redis caching** and prefix-based invalidation to keep results fresh
+- Built secure auth, listings, bookings, and reviews with modular REST routes
 
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Kailramiya/StayEase) [![Live](https://img.shields.io/badge/Live_Demo-00d4aa?style=flat-square&logo=vercel)](https://stay-ease-frontend-one.vercel.app/)
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### NetworQ - Professional Networking Platform
 `React.js` `Node.js` `MongoDB` `JWT`
@@ -228,6 +248,9 @@ gantt
 
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Kailramiya/networq) [![Live](https://img.shields.io/badge/Live_Demo-00d4aa?style=flat-square&logo=vercel)](https://networq-black.vercel.app/)
 
+</td>
+<td width="50%">
+&nbsp;
 </td>
 </tr>
 </table>
@@ -330,7 +353,7 @@ gantt
 <a href="https://amankumar-seven.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-70a5fd?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" height="35"/>
 </a>
-<a href="mailto:amankunduiiitr@gmail.com">
+<a href="mailto:officialamankundu@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" height="35"/>
 </a>
 <a href="https://www.linkedin.com/in/aman-kumar-6082321a9/">
